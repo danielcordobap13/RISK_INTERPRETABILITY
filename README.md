@@ -1,6 +1,6 @@
 # RISK_INTERPRETABILITY
 
-En esta práctica se explicará cómo interpretar un algoritmo de machine learning, enfocado en el desarrollo de un Score Financiero. Para ver los resultados por favor revisar el archivo Practica_SCORE_FINANCIERO.ipynb
+En esta práctica se explicará cómo interpretar un algoritmo de machine learning de manera global y de manera local, enfocado en el desarrollo de un Score Financiero. Para ver los resultados de la interpretacion global por favor revisar el archivo Practica_SCORE_FINANCIERO.ipynb, para los resultados de la interpretacion local por favor revisar el archivo Shapley_INTERPRETABILITY_SCORE.ipynb.
 
 También se encuentran los siguientes archivos:
 
